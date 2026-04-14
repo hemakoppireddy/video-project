@@ -106,6 +106,13 @@ http://localhost:8080
 
 ---
 
+## HLS Manifest URL
+
+For local development:
+hls_output/master.m3u8
+
+Note: In a production environment, this manifest file can be hosted on a CDN such as Cloudinary or Cloudflare to enable global video delivery.
+
 ## Verification Checklist
 
 * Video plays using HLS streaming
