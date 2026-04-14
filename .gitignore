@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (if any)
+node_modules/
+
+# Python server cache
+__pycache__/
+
+# Env files
+.env
+
+# Optional: ignore editor configs
+.vscode/
+.idea/
